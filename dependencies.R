@@ -1,0 +1,11 @@
+library("shiny")
+library("shinydashboard")
+library("xlsx")
+library("dplyr")
+library("ggplot2")
+library("DT")
+library("lubridate")
+library("googleVis")
+library("reshape2")
+
+source("scoring.R")
