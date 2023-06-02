@@ -1,7 +1,7 @@
 # sofacalc
 Sequential Organ Failure Assessment (SOFA) for predicting hospital mortality
 
-note: This has been uploaded as a sample of my ShinyCode.  While this is functional, I do not pay for the services on shinyapps.io, so I cannot guarantee that it will be up when you need it.  My suggestion is to use another website such as clincalc.
+note: This has been uploaded as a sample of my Shiny Code.  While this is functional calculator, I do not pay for the services on shinyapps.io, so I cannot guarantee that it will be up when you need it.  Use another website such as clincalc, and do not rely on this one.
 
 ## Inspiration For This Site
 Link to my Shiny App:<br/>
